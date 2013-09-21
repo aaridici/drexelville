@@ -1,0 +1,138 @@
+/* CSS Document */
+body {
+background-image:url(images/bg.png);
+}
+#body a, a:link, a:visited {
+padding: 0px;
+color: #000000;
+}
+#body a:hover {
+padding: 0px;
+color: #0033FF;
+}
+#header {
+margin-top: 10px;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 100px;
+background-color: #FFCC00;
+}
+#inside {
+padding-top: 8px;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 400px;
+background-color: #0033CC;
+}
+#inside2 {
+padding-top: 8px;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 310px;
+background-color: #0033CC;
+}
+#inside3 {
+padding-top: 8px;
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 600px;
+background-color: #0033CC;
+}
+
+#nested {
+width: 850px;
+height: 350px;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-left: 25px;
+margin-right: 25px;
+padding-left: 5px;
+padding-right: 5px;
+background-color: #FFFFFF;
+}
+#nested2 {
+width: 800px;
+height: 260px;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-left: 50px;
+margin-right: 50px;
+padding-right: 5px;
+padding-left: 5px;
+background-color: #FFFFFF;
+}
+#nested3 {
+width: 800px;
+height: 550px;
+margin-top: 25px;
+margin-bottom: 25px;
+margin-left: 50px;
+margin-right: 50px;
+padding-right: 5px;
+padding-left: 5px;
+background-color: #FFFFFF;
+}
+
+#nested2 a, a:link, a:visited{
+padding:0px;
+}
+#footer {
+margin-left: auto;
+margin-right: auto;
+width: 900px;
+height: 40px;
+background-color: #FFFFCC;
+}
+#initialgamemenu{
+padding-top: 6px;
+padding-left:8px;
+padding-right:8px;
+padding-bottom:4px;
+width: 120px;
+border-width: thin;
+border-style: dashed;
+border-color: #0066FF;
+background-color: #E2E2E2;
+}
+#initialgamemenu a, a:link, a:visited{
+padding-top: 6px;
+padding-left:8px;
+padding-right:8px;
+padding-bottom:4px;
+color: #000000;
+text-decoration: none;
+}
+#initialgamemenu a:hover{
+padding-top: 6px;
+padding-left:8px;
+padding-right:8px;
+padding-bottom:4px;
+color: #000000;
+text-decoration: none;
+background-color: #0066CC;
+}
+#newgamemenu {
+width: 120px;
+}
+#newgamemenu a, a:link, a:visited{
+color: #000000;
+text-decoration: none;
+}
+#newgamemenu a:hover{
+color: #000000;
+text-decoration: none;
+}
+#gameinitializer INPUT {
+background-color: #FFCC00;
+padding: 5px;
+font-weight: bold;
+}
+#gameinitializer INPUT:hover {
+background-color: #0099CC;
+padding: 5px;
+font-weight: bold;
+}
